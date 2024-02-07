@@ -124,5 +124,6 @@ public class PhoneBookMain {
                 console.nextLine();
             }
         } while (action != EXIT);
+        // Добавить подпись коммита1
     }
 }
